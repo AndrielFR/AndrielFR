@@ -27,3 +27,6 @@ $ neofetch
   '.         .'
     '-------'
 ```
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrielFR&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/AndrielFR)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AndrielFR&layout=compact&theme=midnight-purple&hide=makefile,assembly,perl,objective-c,shell,yacc,smpl)](https://github.com/AndrielFR)
