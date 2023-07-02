@@ -6,8 +6,8 @@ I'm a litte shy, but this is me:
 $ neofetch
        ___           and@localhost
      o|* *|o         -------------
-     o|* *|o         OS: Android 11 aarch64
-     o|* *|o         Programming Languages: Python (Pleno) + Flask
+     o|* *|o         OS: Android 13 aarch64
+     o|* *|o         Programming Languages: Python (Pleno)
       \===/                  / Rust (Junior)
        |||                   / Lua (Junior)
        |||                   / Java (Junior)
@@ -18,9 +18,9 @@ $ neofetch
   /    |||    \              / Spanish-LATIN (A2)
  |     |||     |             / Italian (A1)
   \   (|||)   /              / Russian (A1)
-   |   |||   |       Age: 17 years 👀
+   |   |||   |       Age: 18 years 👀
   /    |||    \      Available to: Hire - yes
- /     |||     \             / Marry - yes
+ /     |||     \             / Marry - no
 /      |||      \
 |     [===]     |
  \             /
